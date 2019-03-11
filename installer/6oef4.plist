@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<!-- array of downloads. -->
+	<key>items</key>
+	<array>
+		<dict>
+			<!-- an array of assets to download -->
+				<key>assets</key>
+				<array>
+					<dict>
+						<!-- required. the asset kind. -->
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>https://download.wetransfer.com//us2/a20d8c2464ce6cf1519348d7c48fb0fe20190213213014/198e276d474a2c0a3fddafa9a04248a909a256d0/Watusi_v2.19.21_1.1.8.ipa?cf=y&token=eyJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWUiOiJhMjBkOGMyNDY0Y2U2Y2YxNTE5MzQ4ZDdjNDhmYjBmZTIwMTkwMjEzMjEzMDE0IiwiZmlsZW5hbWUiOiJXYXR1c2lfdjIuMTkuMjFfMS4xLjguaXBhIiwiZXhwaXJlcyI6MTU1MTY1MDAwNywiaG90IjpmYWxzZSwiYnl0ZXNfZXN0aW1hdGVkIjo4Mzc1Mjk2NiwiZW50cmllc19maW5nZXJwcmludCI6IjE5OGUyNzZkNDc0YTJjMGEzZmRkYWZhOWEwNDI0OGE5MDlhMjU2ZDAiLCJ3YXliaWxsX3VybCI6Imh0dHA6Ly9wcm9kdWN0aW9uLmJhY2tlbmQuc2VydmljZS51cy1lYXN0LTEud3Q6OTI5Mi93YXliaWxsL3YxL2NmMDg0ZTE5NjZlZjY1OTM1YjUxYTE0YzhlMzJmYWJhNmJkYTExMTI1YTU0YTM4ODFhMjY5ZjUxZWRlNWU4MGJjY2NiNjEzMTYzYTBhMDc1M2U1YzQzMjI3NWJiNTNiNTViYThmMGNhM2FkOGZjOWVjYmQ0YmI0NTY1MDQyNDhjIiwiY2FsbGJhY2siOiJ7XCJmb3JtZGF0YVwiOntcImFjdGlvblwiOlwiaHR0cDovL3Byb2R1Y3Rpb24uZnJvbnRlbmQuc2VydmljZS5ldS13ZXN0LTEud3Q6MzAwMC9hcGkvYmFja2VuZC90cmFuc2ZlcnMvYTIwZDhjMjQ2NGNlNmNmMTUxOTM0OGQ3YzQ4ZmIwZmUyMDE5MDIxMzIxMzAxNC9kb3dubG9hZHMvNTY5NTI3MDI0OS9jb21wbGV0ZWRcIn0sXCJmb3JtXCI6e1wic3RhdHVzXCI6W1wicGFyYW1cIixcInN0YXR1c1wiXSxcImRvd25sb2FkX2lkXCI6XCI1Njk1MjcwMjQ5XCJ9fSJ9.HbDfAky3CXx2PQZO0mmpoNYAFZ1Jlf15mE221ctz0KY</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>https://e.top4top.net/p_974e8d8m1.png</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>https://e.top4top.net/p_974e8d8m1.png</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>me.6oef4.AZinstaller</string>
+				<key>bundle-version</key>
+				<string>5.4</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+
+install Application 
+
+You used MY Toles #itsFywre
+twitter   : @its_Fywre
+snapchat  : @its_fywre
+instagram : @its_fywre
+
+itsFywre
+
+
+				</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+
+ 

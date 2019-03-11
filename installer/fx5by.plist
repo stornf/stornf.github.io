@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<!-- array of downloads. -->
+	<key>items</key>
+	<array>
+		<dict>
+			<!-- an array of assets to download -->
+				<key>assets</key>
+				<array>
+					<dict>
+						<!-- required. the asset kind. -->
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>https://github-production-release-asset-2e65be.s3.amazonaws.com/147667687/b510b400-3f38-11e9-995b-19d563df11f9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190305%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190305T083501Z&X-Amz-Expires=300&X-Amz-Signature=9320f8dd6d507e858d4ce77c0c0976bd75e1d2b5f28d265074f05a6e1bc79142&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3DUndecimus-v3.0.0-b41.ipa&response-content-type=application%2Foctet-stream</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>https://e.top4top.net/p_974e8d8m1.png</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>https://e.top4top.net/p_974e8d8m1.png</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>me.fx5by.AZinstaller</string>
+				<key>bundle-version</key>
+				<string>5.4</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+
+install Application 
+
+You used MY Toles #itsFywre
+twitter   : @its_Fywre
+snapchat  : @its_fywre
+instagram : @its_fywre
+
+itsFywre
+
+
+				</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+
+ 

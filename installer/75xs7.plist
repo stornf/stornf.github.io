@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<!-- array of downloads. -->
+	<key>items</key>
+	<array>
+		<dict>
+			<!-- an array of assets to download -->
+				<key>assets</key>
+				<array>
+					<dict>
+						<!-- required. the asset kind. -->
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>Title :    Download Grand Theft Auto GTA In IPA For Apple   Description:    تم نشره في 07‏/04‏/2015  Download Grand Theft Auto (GTA): San Andreas In IPA Free For Apple For iPhone And iPad  This Video is brought to you by "MobiTab Website": www.mobitab.tk  Go now through the following link where you can download the application directly for free to your mobile or tablet:  http://www.mobitab.tk/2015/04/downloa...  Related Search:  Download Grand Theft Auto In ipa Grand Theft Auto download Download Grand Theft Auto for iphone Grand Theft Auto ipa Download Grand Theft Auto for ipad Download GTA for apple Grand Theft Auto download download Grand Theft Auto Grand Theft Auto GTA Apple Games ipa download free free ipa files Download GTA GTA Download download gta san andreas download gta san andreas game GTA ipa  Source: http://youtu.be/6iRdehPnk7w</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>https://e.top4top.net/p_974e8d8m1.png</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>https://e.top4top.net/p_974e8d8m1.png</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>me.75xs7.AZinstaller</string>
+				<key>bundle-version</key>
+				<string>5.4</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+
+install Application 
+
+You used MY Toles #itsFywre
+twitter   : @its_Fywre
+snapchat  : @its_fywre
+instagram : @its_fywre
+
+itsFywre
+
+
+				</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+
+ 

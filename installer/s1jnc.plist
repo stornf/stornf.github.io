@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<!-- array of downloads. -->
+	<key>items</key>
+	<array>
+		<dict>
+			<!-- an array of assets to download -->
+				<key>assets</key>
+				<array>
+					<dict>
+						<!-- required. the asset kind. -->
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>https://ia801501.us.archive.org/18/items/ScreenshotX_20180906/ScreenshotX.ipa</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>https://e.top4top.net/p_974e8d8m1.png</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>https://e.top4top.net/p_974e8d8m1.png</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>me.s1jnc.AZinstaller</string>
+				<key>bundle-version</key>
+				<string>5.4</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+
+install Application 
+
+You used MY Toles #CydiaImpactor
+twitter   : @iFenixDev
+snapchat  : @max-storm
+instagram : @ifenixdev
+
+CYDIA IMPACTOR
+
+
+				</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+
+ 

